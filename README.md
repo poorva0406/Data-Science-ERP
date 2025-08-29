@@ -10,5 +10,7 @@ The project compares four model architectures:
 - Graph Attention Network (GAT)
 - Transformer-GNN Hybrid (novel model)
 
+Dataset Used: https://www.10xgenomics.com/datasets/human-breast-cancer-block-a-section-1-1-standard-1-1-0
+
 Experiments were conducted using a publicly available human breast cancer spatial transcriptomics dataset. The models were evaluated under 1-shot, 5-shot and 10-shot conditions to simulate low-data scenarios.
 
